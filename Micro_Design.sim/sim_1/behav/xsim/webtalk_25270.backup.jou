@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Webtalk v2017.4 (64-bit)
+# SW Build 2086221 on Fri Dec 15 20:54:30 MST 2017
+# IP Build 2085800 on Fri Dec 15 22:25:07 MST 2017
+# Start of session at: Mon Nov 15 21:54:50 2021
+# Process ID: 25270
+# Current directory: /home/010/a/ax/axk200011/Micro_Design/Micro_Design.sim/sim_1/behav/xsim
+# Command line: wbtcv -mode batch -source /home/010/a/ax/axk200011/Micro_Design/Micro_Design.sim/sim_1/behav/xsim/xsim.dir/tb_Instr_Dec_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: /home/010/a/ax/axk200011/Micro_Design/Micro_Design.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: /home/010/a/ax/axk200011/Micro_Design/Micro_Design.sim/sim_1/behav/xsim/webtalk.jou
+#-----------------------------------------------------------
+source /home/010/a/ax/axk200011/Micro_Design/Micro_Design.sim/sim_1/behav/xsim/xsim.dir/tb_Instr_Dec_behav/webtalk/xsim_webtalk.tcl -notrace
